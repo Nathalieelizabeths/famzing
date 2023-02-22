@@ -1,0 +1,47 @@
+
+#image{
+    width: 60%;
+    height: 60%;
+    float: right;
+}
+
+.heading{
+    color: blueviolet;
+    border: 60px;
+    border-width: 60px;
+    padding: 10px;
+    font-size: xx-large;
+}
+.nav{
+    justify-content: space-between;
+    padding: 10px;
+    font-size: large;
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: x-large;
+    padding: 26px 24px;
+}
+#p1{
+    color: blue;
+    font-size: larger;
+}
+#p2{
+    color: blue;
+    font-size: large;
+}
+#b1{
+    border: 30px; ;
+    font-size: 15px;
+    padding: 15px 32px;
+    display: inline-block;
+    text-align: center;
+}
+#b2{
+    border: none;
+    font-size: 15px;
+    padding: 15px 32px;
+    display: inline-block;
+    text-align: center;
+}
